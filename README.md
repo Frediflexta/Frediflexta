@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently work at gitstart..
+- 🔭 I currently work at gitstart..
 - 🌱 I’m currently learning how to learn effeciently while being productive at the same time.
 - 👯 I’m looking to collaborate on more open source projects, I joined [Eddie Jaoude's](https://github.com/EddieJaoudeCommunity) open source community
 - 💬 Ask me about anime, movies, christain apologetics, earth science...
