@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
-
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I currently work at gitstart..
+- 🔭 I currently open for remote work, checkout my [LinkedIn Profile](https://www.linkedin.com/in/fred-adegoke/)
 - 🌱 I’m currently learning how to learn effeciently while being productive at the same time.
-- 👯 I’m looking to collaborate on more open source projects, I joined [Eddie Jaoude's](https://github.com/EddieJaoudeCommunity) open source community
+- 👯 I’m looking to collaborate on more open source projects, I joined [Eddie Jaoude's](https://github.com/EddieJaoudeCommunity) open source community.
 - 💬 Ask me about anime, movies, christain apologetics, earth science...
 - ⚡ Fun fact: I wanted to be a ninja🤭, problem was, they only existed in the movies I watched...😂
 
